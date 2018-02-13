@@ -1,2 +1,2 @@
-list: node.c 
-	gcc -o list node.c 
+list: list.c 
+	gcc -o list list.c 
